@@ -44,3 +44,7 @@ git clone https://github.com/твой-логин/KinoTracker.git
 Kotlin
 val apiKey = "ВАШ_КЛЮЧ_ЗДЕСЬ"
 Соберите проект в Android Studio и запустите на эмуляторе или реальном устройстве.
+![Uploading 1000034285.jpg…]()
+![1000034286](https://github.com/user-attachments/assets/c6823f86-309d-4842-a06c-d90de9f28162)
+![1000034287](https://github.com/user-attachments/assets/9a897d37-9fb3-4bd5-bf06-6950f48dec7f)
+![1000034288](https://github.com/user-attachments/assets/f476915e-0670-481b-a283-4ee45ecfe672)
